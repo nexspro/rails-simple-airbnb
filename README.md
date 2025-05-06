@@ -1,24 +1,33 @@
-# README
+#  Rails Simple Airbnb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A minimal Airbnb-style web application built with Ruby on Rails. Users can list properties, browse available listings, and make bookings — ideal for practicing full-stack CRUD operations and MVC architecture.
 
-Things you may want to cover:
+---
 
-* Ruby version
+##  Features
 
-* System dependencies
+- 🏠 List properties with details and photos
+- 🔍 Browse all available listings
+- 📅 Book a property with start and end dates
+- 🧾 View booking details
+- 🗑️ Delete bookings
 
-* Configuration
+---
 
-* Database creation
+## 🛠 Tech Stack
 
-* Database initialization
+- **Ruby on Rails** (MVC framework)
+- **PostgreSQL** (database)
+- **ERB** (templating system)
+- **Bootstrap** (UI styling)
+- **Simple Form** (form builder)
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
+##  Setup Instructions
 
-* Deployment instructions
+1. **Clone the repository:**
 
-* ...
+   ```bash
+   git clone https://github.com/nexspro/rails-simple-airbnb.git
+   cd rails-simple-airbnb
